@@ -2,7 +2,7 @@
 
 ---
 
-## _EN-US_
+### :large_blue_circle::red_circle::white_circle: _EN-US_
 ## Description
 This repository contains a fictitious data analysis project of Airbnb in New York City, aiming to answer three key questions to assist the CEO in commercial decisions regarding a possible expansion:
 
@@ -21,7 +21,7 @@ This project was developed as part of a data analysis course, aiming to apply da
 
 ---
 
-## _PT-BR_
+### :green_circle::yellow_circle: _PT-BR_
 ## Descrição
 Este repositório contém um projeto fictício de análise de dados do Airbnb em Nova York que visa responder a três perguntas-chave para auxiliar o CEO em decisões comerciais referentes a uma posível expansão:
 
