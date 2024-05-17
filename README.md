@@ -1,4 +1,4 @@
-### :flag_us: ENG-US 
+### :us: ENG-US 
 # Airbnb Data Analysis in New York City
 
 ## Description
@@ -18,7 +18,7 @@ This project was developed as part of a data analysis course, aiming to apply da
 - NumPy
 
 
-### :flag_br: PT-BR  
+### 🇧🇷 PT-BR  
 # Análise de Dados do Airbnb em Nova York
 
 ## Descrição
