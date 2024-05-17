@@ -2,7 +2,7 @@
 
 ---
 
-## :en-us:
+## _EN-US_
 ## Description
 This repository contains a fictitious data analysis project of Airbnb in New York City, aiming to answer three key questions to assist the CEO in commercial decisions regarding a possible expansion:
 
@@ -10,7 +10,7 @@ This repository contains a fictitious data analysis project of Airbnb in New Yor
 2. What are the names of the regions existing in New York City?
 3. What is the value of the most expensive daily rent in New York City?
 
-## Objective :us:
+## Objective
 This project was developed as part of a data analysis course, aiming to apply data analysis techniques in a realistic and practical scenario. The analysis helps to better understand the rental market in New York and make data-driven decisions.
 
 ## Tools used
@@ -21,7 +21,7 @@ This project was developed as part of a data analysis course, aiming to apply da
 
 ---
 
-## :pt-br:
+## _PT-BR_
 ## Descrição
 Este repositório contém um projeto fictício de análise de dados do Airbnb em Nova York que visa responder a três perguntas-chave para auxiliar o CEO em decisões comerciais referentes a uma posível expansão:
 
