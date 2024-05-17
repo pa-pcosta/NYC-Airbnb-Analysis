@@ -28,6 +28,11 @@ Este repositório contém um projeto fictício de análise de dados do Airbnb em
 1. Qual o valor médio do aluguel na cidade de Nova York?
 2. Quais os nomes das regiões que existem na cidade de Nova York?
 3. Qual o valor do aluguel diário mais caro da cidade de Nova York?
+4. Quais são as categorias de imóveis que estão cadastradas dentro da base de dados da cidade de Nova York?
+5. Quantos usuários (Hosts) únicos cadastrados existem dentro da base de dados da cidade de Nova York?
+6. Como é a variação do preços dos imóveis em NY?
+7. Existem mais imóveis baratos ou caros?
+8. Qual a distribuição do número de Reviews? Existem imóveis com muitos e outro com poucos reviews?
 
 ## Objetivo
 Este projeto foi desenvolvido como parte de um curso de análise de dados, visando aplicar técnicas de análise de dados em um cenário realista e prático. A análise ajuda a entender melhor o mercado de aluguéis em Nova York e a tomar decisões baseadas em dados.
