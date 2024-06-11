@@ -1,7 +1,5 @@
 # Airbnb Data Analysis in New York City
 
-## Contents
-
 ### _EN-US_
 - [Description](#description)
 - [Objective](#objective)
