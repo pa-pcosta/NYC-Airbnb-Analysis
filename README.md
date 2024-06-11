@@ -41,10 +41,14 @@ This project was developed as part of a data analysis course, aiming to apply da
 - Dataviz (Histograms with Matplotlib | Bar graphs with Plotly | Interactive maps with Folium lib)
 
 ## How to run
-1. ### Download the notebook:
-    It is in the `notebooks` folder.
-2. ### Open it using `Google Colab`:
-    Since this project was developed using Google Colab, I suggest you to use it to run the project. This way, you make sure everything is going to run how it's supposed to, and you can see all the cool stuff I did like interactive maps! :smiley:
+### It's simple! Just click the link:
+In the `notebooks` folder there's a file named `NYC_Airbnb_Analysis.ipynb`. There's a button in the upper-left corner just like this: ![image](https://github.com/pa-pcosta/NYC-Airbnb-Analysis/assets/149397785/e7fe5218-c582-453d-8ef5-4d27bd140e63) <br />
+Click it, and you will be redirected to Google Colab.
+    
+### Or you can download it:
+You can also download the file and open it wherever you like.<br />
+<br />
+Since this project was developed using Google Colab, I suggest you use it to run the project. This way, you can ensure that everything runs as it's supposed to, and you can see all the cool stuff I did, like interactive maps! 😊
 
 ---
 
@@ -74,7 +78,11 @@ Este projeto foi desenvolvido como parte de um curso de análise de dados, visan
 - Dataviz (Histogramas com Matplotlib | Gráfico com Plotly | Mapasinterativos com biblioteca Folium)
 
 ## Como rodar a aplicação
-1. ### Faça o download do notebook:
-    Ele está na pasta `notebooks`.
-2. ### Abra o arquivo utilizando o `Google Colab`:
-    Como este projeto foi desenvolvido usando o Google Colab, sugiro que você o utilize para executar o projeto. Dessa forma, você garante que tudo vai funcionar como deveria, e você poderá ver todas as coisas legais que fiz, como mapas interativos! 😊
+### É simples! Basta clicar no link:
+Dentro da pasta `notebooks` há um arquivo chamado `NYC_Airbnb_Analysis.ipynb`. Nele há um botão no canto superior esquerdo exatamente assim: ![image](https://github.com/pa-pcosta/NYC-Airbnb-Analysis/assets/149397785/e97def84-ffed-4380-a373-453eaa2dfb76)<br />
+Clique nele e você será redirecionado para o Google Colab.
+
+### Ou você pode baixá-lo:
+Você pode também fazer o download do arquivo e abrí-lo onde quiser.<br />
+<br />
+Como este projeto foi desenvolvido usando o `Google Colab`, sugiro que você o utilize para executar o projeto. Dessa forma, você garante que tudo funcionará como deveria e poderá ver todas as coisas legais que fiz, como mapas interativos! 😊
