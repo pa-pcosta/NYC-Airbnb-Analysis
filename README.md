@@ -75,6 +75,6 @@ Este projeto foi desenvolvido como parte de um curso de análise de dados, visan
 
 ## Como rodar a aplicação
 1. ### Faça o download do notebook:
-  Ele está na pasta `notebooks`.
+    Ele está na pasta `notebooks`.
 2. ### Abra o arquivo utilizando o `Google Colab`:
-Como este projeto foi desenvolvido usando o Google Colab, sugiro que você o utilize para executar o projeto. Dessa forma, você garante que tudo vai funcionar como deveria, e você poderá ver todas as coisas legais que fiz, como mapas interativos! 😊
+    Como este projeto foi desenvolvido usando o Google Colab, sugiro que você o utilize para executar o projeto. Dessa forma, você garante que tudo vai funcionar como deveria, e você poderá ver todas as coisas legais que fiz, como mapas interativos! 😊
