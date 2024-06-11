@@ -15,7 +15,7 @@
 
 ### :large_blue_circle::red_circle::white_circle: _EN-US_
 ## Description
-This repository contains a fictitious data analysis project of Airbnb in New York City, aiming to answer key questions to assist the CEO in commercial decisions regarding a possible expansion:
+Data analysis project of Airbnb in New York City, aiming to answer key questions to assist the CEO in commercial decisions regarding a possible expansion:
 
 1. What is the average rent value in New York City?
 2. What are the names of the regions existing in New York City?
@@ -30,7 +30,7 @@ This repository contains a fictitious data analysis project of Airbnb in New Yor
 11. Can we determine the locations of properties by their type?
 
 ## Objective
-This project was developed as part of a data analysis course, aiming to apply data analysis techniques in a realistic and practical scenario. The database used for analysis contains public and accurate data provided by the Airbnb company. The analysis helps to better understand the rental market in New York and make data-driven decisions.
+This project was developed aiming to apply data analysis techniques in a realistic and practical scenario. The database used for analysis contains public and accurate data provided by the Airbnb company. The analysis helps to better understand the rental market in New York and make data-driven decisions.
 
 ## Tools used
 - Python
@@ -52,7 +52,7 @@ Since this project was developed using Google Colab, I suggest you use it to run
 
 ### :green_circle::yellow_circle: _PT-BR_
 ## Descrição
-Este repositório contém um projeto fictício de análise de dados do Airbnb em Nova York que visa responder a perguntas-chave para auxiliar o CEO em decisões comerciais referentes a uma posível expansão:
+Projeto de análise de dados do Airbnb em Nova York que visa responder a perguntas-chave para auxiliar o CEO em decisões comerciais referentes a uma posível expansão:
 
 1. Qual o valor médio do aluguel na cidade de Nova York?
 2. Quais os nomes das regiões que existem na cidade de Nova York?
@@ -67,7 +67,7 @@ Este repositório contém um projeto fictício de análise de dados do Airbnb em
 11. Conseguimos saber onde estão localizados os imóveis por seu tipo?
 
 ## Objetivo
-Este projeto foi desenvolvido como parte de um curso de análise de dados, visando aplicar técnicas de análise de dados em um cenário realista e prático. A base de dados utilizada para análise contém dados públicos e verídicos disponibilizados pela empresa Airbnb. A análise ajuda a entender melhor o mercado de aluguéis em Nova York e a tomar decisões baseadas em dados.
+Este projeto foi desenvolvido visando aplicar técnicas de análise de dados em um cenário realista e prático. A base de dados utilizada para análise contém dados públicos e verídicos disponibilizados pela empresa Airbnb. A análise ajuda a entender melhor o mercado de aluguéis em Nova York e a tomar decisões baseadas em dados.
 
 ## Ferramentas Utilizadas
 - Python
