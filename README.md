@@ -52,7 +52,7 @@ Since this project was developed using Google Colab, I suggest you use it to run
 
 ### :green_circle::yellow_circle: _PT-BR_
 ## Descrição
-Projeto de análise de dados do Airbnb em Nova York que visa responder a perguntas-chave para auxiliar o CEO em decisões comerciais referentes a uma posível expansão:
+Projeto de análise de dados do Airbnb em Nova York que visa responder a perguntas-chave para auxiliar o CEO em decisões comerciais referentes a uma possível expansão:
 
 1. Qual o valor médio do aluguel na cidade de Nova York?
 2. Quais os nomes das regiões que existem na cidade de Nova York?
